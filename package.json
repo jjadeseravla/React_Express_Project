@@ -1,0 +1,27 @@
+{
+  "name": "react_express_project",
+  "version": "1.0.0",
+  "description": "boilerplate for react and express",
+  "main": "server.js",
+  "scripts": {
+    "node": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjadeseravla/React_Express_Project.git"
+  },
+  "author": "Jade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jjadeseravla/React_Express_Project/issues"
+  },
+  "homepage": "https://github.com/jjadeseravla/React_Express_Project#readme",
+  "dependencies": {
+    "concurrently": "^3.5.1",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.12"
+  }
+}
